@@ -7,8 +7,7 @@
 
 # 학습 목표
 
-- OT
-- 아나콘다, 라이브러리 설치, vscode 연동
+- Anaconda, 라이브러리 설치, VScode - Anaconda 연동
 - Python Numpy 라이브러리 사용방법 및 예제 학습
 - Python Pandas 라이브러리 사용방법 및 예제 학습
 - 데이터 시각화 라이브러리 사용방법 및 예제 학습
@@ -17,12 +16,18 @@
 
 
 # 참고 문헌 
-Python for Data Analysis
+ 
+### Python for Data Analysis
+  
+![image](https://user-images.githubusercontent.com/86312443/156985945-11dc4b50-0251-4b3e-9207-d71f74641a83.png)
+  
 
+
+  
 # 참고 사이트 
 
-[Numpy](https://numpy.org/doc/stable/user/quickstart.html)
-[Pandas](https://pandas.pydata.org/docs/user_guide/index.html)
-[Matplotlib](https://matplotlib.org/stable/users/index)
-[Seaborn](https://seaborn.pydata.org/tutorial.html)
+- [Numpy](https://numpy.org/doc/stable/user/quickstart.html)<p>
+- [Pandas](https://pandas.pydata.org/docs/user_guide/index.html)<p>
+- [Matplotlib](https://matplotlib.org/stable/users/index)<p>
+- [Seaborn](https://seaborn.pydata.org/tutorial.html)<p>
 
